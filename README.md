@@ -1,6 +1,3 @@
-Paste this as your **entire `README.md`**.
-
-````markdown
 # Fraud Risk Prediction MLOps Platform
 
 An end-to-end **MLOps platform for fraud detection** built with FastAPI, Docker, Kubernetes, Helm, and GitHub Actions.
